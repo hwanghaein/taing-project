@@ -29,12 +29,16 @@ HTML, CSS, VanillaJS를 이용한 TVING 사이트 클론코딩
 - IDE: VScode
 - Database: json-server^0.17.1 - data.json
 
+
 ## 📌 주요 기능
 
 ### 1. 랜딩페이지
-<div align=center>
-  <img src="https://user-images.githubusercontent.com/69625013/217635979-933a8679-d840-447a-ba7b-74bb795cc467.png" width="800">
-</div>
+
+<br>
+
+https://github.com/user-attachments/assets/665290a5-65be-4951-a778-ec46f6e61025
+
+<br>
     
   - 스크롤에 따라 움직이는 스와이퍼(Horizontal Scrolling) <- gsap과 swiper.js를 이용해 구현
   - 무한 롤링 배너
@@ -42,10 +46,12 @@ HTML, CSS, VanillaJS를 이용한 TVING 사이트 클론코딩
   
   
 ### 2. 메인페이지
-<div align=center>
-  <img src="https://user-images.githubusercontent.com/69625013/217636379-90d19282-4147-4989-a7c8-ce0edc9ccb6a.png" width="500">
-  <img src="https://user-images.githubusercontent.com/69625013/217636394-6a394ddb-6907-488b-9218-c4f87f994819.png" width="500">
-</div>
+
+<br>
+
+https://github.com/user-attachments/assets/dc3d388e-6051-4e5b-be5e-2d1801c62b45
+
+<br>
   
   - 비주얼 스와이퍼, 각종 컨텐츠 스와이퍼 동적 렌더링
   - 비주얼 영역 스와이퍼 재생 제어 버튼 (swiper ********Autoplay Method)
@@ -54,9 +60,13 @@ HTML, CSS, VanillaJS를 이용한 TVING 사이트 클론코딩
   
   
 ### 3. 로그인
-<div align=center>
-  <img src="https://user-images.githubusercontent.com/69625013/217636571-f7775219-8c1e-4962-bece-013cea4247e5.png" width="500">
-</div>
+
+<br>
+
+https://github.com/user-attachments/assets/3df7da31-47ec-4faa-bec6-a4e273832fb4
+
+<br>
+
   
   - 비밀번호 입력 숨김처리
   - 로그인 버튼 클릭 시 fetch를 이용해 이메일 및 비밀번호 유효성 검사
@@ -99,10 +109,9 @@ HTML, CSS, VanillaJS를 이용한 TVING 사이트 클론코딩
   
   
 ### 7. 프로필 전환/편집
-<div align=center>
-  <img src="https://user-images.githubusercontent.com/69625013/217637145-80270056-4817-4d99-88f1-143e1fa5f9b5.png" width="500">
-</div>
-  
+
+https://github.com/user-attachments/assets/7859d740-8646-4562-8625-8eb0448a537f
+
   - 사진 hover 시 위로 올라가는 애니메이션
   - 편집 버튼을 누르면
       - 완료 버튼으로 변환
